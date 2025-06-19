@@ -1,4 +1,4 @@
-# anomaly-power-usage
+
 # 🔌 Anomaly Detection in Power Usage
 
 This project uses **real-world household power consumption data** to detect anomalies using two powerful techniques:
