@@ -44,4 +44,6 @@ This project uses **real-world household power consumption data** to detect anom
 ---
 
 ## 📁 Project Structure
-
+anomaly-power-usage/
+├── python.ipynb # Final notebook with code, plots, and outputs
+├── README.md # This project overview file
